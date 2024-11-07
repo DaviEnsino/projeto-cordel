@@ -21,7 +21,7 @@ html, body {
 }
 
 header {
-    background-color: black;
+    background-color: red;
     color: white;
     text-align: center;
 }
@@ -90,7 +90,7 @@ section#img02 {
 }
 
 footer {
-    background-color: black;
+    background-color: red;
     color: white;
     text-align: center;
     padding: 10px;
